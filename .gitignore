@@ -1,0 +1,12 @@
+# Arduino build files
+*.hex
+*.elf
+*.eep
+
+# Temporary files
+*.tmp
+*.bak
+
+# IDE files
+.vscode/
+.idea/
