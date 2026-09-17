@@ -41,3 +41,40 @@ The goal of this project is to turn my own robot design into a working physical 
 ## 📸 Simulation
 
 ![Obstacle Avoiding Robot](Screenshot_20260911-194109.png)
+
+## ⚙️ Design Approach
+
+This project was designed with a focus on keeping the robot simple and affordable.
+
+The initial prototype is being developed in Tinkercad before moving to physical hardware.
+
+## 🧪 Testing
+
+The robot is currently being tested through simulation.
+
+The main behavior being tested is:
+
+Forward → Detect obstacle → Stop → Turn → Continue
+
+## 📚 What I Learned
+
+- Ultrasonic distance measurement
+- Arduino programming
+- Motor control
+- Basic transistor/MOSFET switching
+- Circuit simulation
+- Debugging and testing
+- Documenting an engineering project
+
+## 🚀 Project Progress
+
+- [x] Design robot concept
+- [x] Create Tinkercad simulation
+- [x] Write Arduino code
+- [x] Upload code to GitHub
+- [x] Document circuit design
+- [x] Add simulation screenshot
+- [ ] Build physical prototype
+- [ ] Test physical motors
+- [ ] Debug hardware
+- [ ] Improve turning mechanism
