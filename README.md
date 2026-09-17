@@ -37,3 +37,7 @@ The goal of this project is to turn my own robot design into a working physical 
 - Improve turning decisions
 - Optimize the motor control
 - Test the robot in different environments
+
+## 📸 Simulation
+
+![Obstacle Avoiding Robot](Screenshot_20260911-194109.png)
